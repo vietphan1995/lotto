@@ -14,7 +14,7 @@ Lotto application helps divide hosting/s and divided nodes by link technology fo
 
 ![image.png](image%201.png)
 
-Lotto application include:
+Lotto application includes:
 
 - Lotto stage should has visualize code as qr code on stage as in hosting side, include admin board view.
 - Divided side board view.
